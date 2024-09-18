@@ -1,6 +1,8 @@
 # Human limb development cell atlas
 This repository contains codes used for [the human embryonic limb cell atlas](https://www.nature.com/articles/s41586-023-06806-x).
-<img width="736" alt="image" src="https://github.com/Teichlab/limbcellatlas/assets/4110443/0c0af411-a3de-474e-a210-a25d2018d3a3">
+
+<img width="736" alt="image" src="https://github.com/user-attachments/assets/51cb199c-e15a-46ac-8f6e-ed057cf8503b">
+
 
 ![image](https://github.com/Teichlab/limbcellatlas/assets/4110443/cd34fe7b-53fb-485e-95a0-3b1b04394102)
 
